@@ -16,7 +16,7 @@ namespace Exercises
               * and recalculate the remainder
               * output new remainder to screen
          */
-        /*static void Main(string[] args)
+        static void Main(string[] args)
         {
             int num1 = 42348;
             int num2 = 2;
@@ -30,6 +30,6 @@ namespace Exercises
 
 
             Console.ReadLine();
-        }*/
+        }
     }
 }
