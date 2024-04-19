@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Enum1ercises
+namespace Exercises
 {
     internal class Program
     {
@@ -16,7 +16,7 @@ namespace Enum1ercises
               * and recalculate the remainder
               * output new remainder to screen
          */
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             int num1 = 42348;
             int num2 = 2;
@@ -30,6 +30,6 @@ namespace Enum1ercises
 
 
             Console.ReadLine();
-        }
+        }*/
     }
 }
