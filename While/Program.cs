@@ -24,7 +24,7 @@ namespace While
             }*/
 
             Console.Write("Enter the first number: ");
-            string numberAInput = Console.ReadLine();
+            var numberAInput = Console.ReadLine();
             int numberA = Convert.ToInt32(numberAInput);
 
             Console.Write("Enter the second number: ");
