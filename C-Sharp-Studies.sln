@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numeric Formatting", "Numer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryParse", "TryParse\TryParse.csproj", "{7CAC9E08-62A9-40D3-9DBC-21923EF16A8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseTimesTable", "ExerciseTimesTable\ExerciseTimesTable.csproj", "{6218A1AE-F0B7-4875-9776-B4591F411E96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{7CAC9E08-62A9-40D3-9DBC-21923EF16A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CAC9E08-62A9-40D3-9DBC-21923EF16A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CAC9E08-62A9-40D3-9DBC-21923EF16A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6218A1AE-F0B7-4875-9776-B4591F411E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6218A1AE-F0B7-4875-9776-B4591F411E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6218A1AE-F0B7-4875-9776-B4591F411E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6218A1AE-F0B7-4875-9776-B4591F411E96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
