@@ -11,8 +11,8 @@ namespace ExerciseTimesTable
         static void Main(string[] args)
         {
             bool success;
-            int num = 0;
-            int tSize = 0;
+            int num;
+            int tSize;
 
             do
             {
@@ -39,7 +39,8 @@ namespace ExerciseTimesTable
             
             for (int i = 1; i < tSize + 1; i++)
             {
-                Console.WriteLine(i + " x " + num + " = " + (i * num));
+                //Console.WriteLine(i + " x " + num + " = " + (i * num));
+                Console.WriteLine("{0:00} x {1:00} = {2:00}", i, num, i * num);
             }
 
 
