@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseTimesTable", "Exerc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{14A85CCE-5772-43D0-92AC-349B0DA7ABB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verbatim String", "Verbatim String\Verbatim String.csproj", "{9CB8AF32-115E-4938-A4FA-F1FE571533B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{14A85CCE-5772-43D0-92AC-349B0DA7ABB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14A85CCE-5772-43D0-92AC-349B0DA7ABB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14A85CCE-5772-43D0-92AC-349B0DA7ABB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB8AF32-115E-4938-A4FA-F1FE571533B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB8AF32-115E-4938-A4FA-F1FE571533B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB8AF32-115E-4938-A4FA-F1FE571533B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB8AF32-115E-4938-A4FA-F1FE571533B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
