@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verbatim String", "Verbatim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringFormatting", "StringFormatting\StringFormatting.csproj", "{F5156E34-E598-49C8-B743-14E41829995F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInterpolation", "StringInterpolation\StringInterpolation.csproj", "{AE826C19-3CE7-4BF3-AE4A-82620EFF7DCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{F5156E34-E598-49C8-B743-14E41829995F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5156E34-E598-49C8-B743-14E41829995F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5156E34-E598-49C8-B743-14E41829995F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE826C19-3CE7-4BF3-AE4A-82620EFF7DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE826C19-3CE7-4BF3-AE4A-82620EFF7DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE826C19-3CE7-4BF3-AE4A-82620EFF7DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE826C19-3CE7-4BF3-AE4A-82620EFF7DCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
