@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInterpolation", "Stri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringConcatenation", "StringConcatenation\StringConcatenation.csproj", "{A5D5E2F3-77E1-4029-BF1D-3B7557C3A663}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmptyString", "EmptyString\EmptyString.csproj", "{A39D3211-D4A0-4A16-AB26-BD41334E9E9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{A5D5E2F3-77E1-4029-BF1D-3B7557C3A663}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5D5E2F3-77E1-4029-BF1D-3B7557C3A663}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5D5E2F3-77E1-4029-BF1D-3B7557C3A663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A39D3211-D4A0-4A16-AB26-BD41334E9E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A39D3211-D4A0-4A16-AB26-BD41334E9E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A39D3211-D4A0-4A16-AB26-BD41334E9E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A39D3211-D4A0-4A16-AB26-BD41334E9E9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
