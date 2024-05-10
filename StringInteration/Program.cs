@@ -28,7 +28,8 @@ namespace StringIteration
             //sendo assim podemos gerar um for loop que ira percorrer
             //todo o array de char(a string) sem execer nenhum index referente
 
-            for (int i = 0; i < message.Length; i++)
+            //for (int i = 0; i < message.Length; i++)
+            for (int i = message.Length - 1; i > -1; i--)
             {
                 Console.Write(message[i]);
                 System.Threading.Thread.Sleep(50); //flavor
