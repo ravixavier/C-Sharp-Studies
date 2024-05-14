@@ -27,9 +27,13 @@ namespace StringIteration
             //um index que nao existe na string entraremos em um excecao
             //sendo assim podemos gerar um for loop que ira percorrer
             //todo o array de char(a string) sem execer nenhum index referente
-
             //for (int i = 0; i < message.Length; i++)
-            for (int i = message.Length - 1; i > -1; i--)
+
+            //for (int i = 'variavel'.Length - 1; i > -1; i--)
+            //exemplo de um for que percorre o array de tras pra frente
+            //dessa maneira eu poderia escrever a string em reverso
+
+            for (int i = 0; i < message.Length; i++)
             {
                 Console.Write(message[i]);
                 System.Threading.Thread.Sleep(50); //flavor
