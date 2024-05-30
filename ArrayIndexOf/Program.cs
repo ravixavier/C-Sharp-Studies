@@ -20,7 +20,7 @@ namespace ArrayIndexOf
 
             //int position = Array.IndexOf(numbers, search);
             //int position = Array.IndexOf(numbers, search, 3);
-            int position = Array.IndexOf(numbers, search, 1, 3);
+            int position = Array.IndexOf(numbers, search, 2, 3);
 
            // int position = -1;
 
