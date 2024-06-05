@@ -23,7 +23,7 @@ namespace VoidFunctions
             /*
              * Por exemplo o array de inteiros criado em CreateAndPrintArray
              * não está acessível fora de CreateAndPrint
-             * no momento em que a função é finalizada numbers é deletado da memoria
+             * no momento em que a função é finalizada numbers é deletado da memoria.
              */
 
             Console.ReadLine();

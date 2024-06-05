@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions", "Functions\Func
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoidFunctions", "VoidFunctions\VoidFunctions.csproj", "{388CFE69-30B3-4460-8BD5-E3C8C71EFC21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnTypeFunctions", "ReturnTypeFunctions\ReturnTypeFunctions.csproj", "{11F8BA3D-1D4E-42ED-84F3-D738818714E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{388CFE69-30B3-4460-8BD5-E3C8C71EFC21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{388CFE69-30B3-4460-8BD5-E3C8C71EFC21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{388CFE69-30B3-4460-8BD5-E3C8C71EFC21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11F8BA3D-1D4E-42ED-84F3-D738818714E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F8BA3D-1D4E-42ED-84F3-D738818714E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F8BA3D-1D4E-42ED-84F3-D738818714E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F8BA3D-1D4E-42ED-84F3-D738818714E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
