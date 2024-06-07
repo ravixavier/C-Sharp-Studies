@@ -8,6 +8,11 @@ namespace ReturnTypeFunctions
 {
     internal class Program
     {
+
+        /*
+         * Aqui podemos ver como é possível ultilizar funções que possuem retornos.
+         */
+
         static void Main(string[] args)
         {
             Console.Title = $"{ReturnName()} - {ReturnAge()}";
@@ -38,7 +43,18 @@ namespace ReturnTypeFunctions
             Console.ReadLine();
         }
 
-        static void badExample()
+        /*
+         * A priori uma função deve realizar somente uma tarefa
+         * por exemplo; se determinada função faz uma conversão e um cálculo
+         * ao mesmo tempo, isso sería o equivalente a duas tarefas sendo realizadas
+         * dentro de um única função, o certo a se fazer é separar essas duas tarefas
+         * em duas funções independentes, dessa maneira podemos escolher quando
+         * realizar cada tarefa separadamente, já que sería impossível fazer isso
+         * caso as duas tarefas estivessem em uma única função; toda vez que você fosse
+         * calcular, obrigatóriamete você teria de converter e vice versa.
+         */
+
+        static void badExample() 
         {
             //conversion
             //calculation
@@ -50,11 +66,6 @@ namespace ReturnTypeFunctions
         static void Example2()
         {
             //calculation
-        }
-
-        static int Add()
-        {
-            return 5 + 5;
         }
 
         static int[] CreateNewNumbers()
