@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnTypeFunctions", "Retu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionParameters", "FunctionParameters\FunctionParameters.csproj", "{D05F1071-D7BF-4179-AC54-57D9881CA153}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionalParameters", "OptionalParameters\OptionalParameters.csproj", "{92084473-A2ED-4483-8DBE-2C453A39C12E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{D05F1071-D7BF-4179-AC54-57D9881CA153}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D05F1071-D7BF-4179-AC54-57D9881CA153}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D05F1071-D7BF-4179-AC54-57D9881CA153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92084473-A2ED-4483-8DBE-2C453A39C12E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92084473-A2ED-4483-8DBE-2C453A39C12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92084473-A2ED-4483-8DBE-2C453A39C12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92084473-A2ED-4483-8DBE-2C453A39C12E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
