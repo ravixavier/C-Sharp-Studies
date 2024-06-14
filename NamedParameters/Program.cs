@@ -19,7 +19,7 @@ namespace NamedParameters
             /*
              * apenas outra maneira de se utilizar os parametros em uma funcao
              * ao invez de utilizar a funcao com os parametros exatamente na ordem
-             * especificada na funcao, vc pode 
+             * especificada na funcao, vc pode 'enderecar' o parametro a variavel desejada
              */
 
             Console.ReadLine();
