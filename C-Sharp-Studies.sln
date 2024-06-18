@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutParameters", "OutParamet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceParameters", "ReferenceParameters\ReferenceParameters.csproj", "{05A41F4F-CD8F-456A-87B5-D261A64B7C85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseTriangleArea", "ExerciseTriangleArea\ExerciseTriangleArea.csproj", "{8278C2AA-7776-4729-9BDA-189FEFA91ADB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,10 @@ Global
 		{05A41F4F-CD8F-456A-87B5-D261A64B7C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05A41F4F-CD8F-456A-87B5-D261A64B7C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05A41F4F-CD8F-456A-87B5-D261A64B7C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8278C2AA-7776-4729-9BDA-189FEFA91ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8278C2AA-7776-4729-9BDA-189FEFA91ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8278C2AA-7776-4729-9BDA-189FEFA91ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8278C2AA-7776-4729-9BDA-189FEFA91ADB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
