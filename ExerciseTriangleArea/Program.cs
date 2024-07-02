@@ -25,7 +25,9 @@ namespace ExerciseTriangleArea
              * Pense de maneira lógica o problema, apesar de altura e largura
              * serem coisas diferentes, eu só preciso de uma função base pra ler
              * as duas.
+             * código certo no final em forma de comentário
              */
+
             int width = askWidth();
             int height = askHeight();
 
@@ -44,6 +46,7 @@ namespace ExerciseTriangleArea
              * como eu desejar, assim deixo a função mais genérica possível
              * fazendo com que ela possa ser reutilizada para outro propósito
              * mais facilmente.
+             * código certo no final em forma de comentário
              */
             Console.WriteLine("Enter the width of the triangle: ");
             return Convert.ToInt32(Console.ReadLine());
