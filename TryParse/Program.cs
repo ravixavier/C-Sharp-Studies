@@ -56,6 +56,7 @@ namespace TryParse
              * já com o TryParse ele elimina qualquer quantidade de zeros iniciais na string.
              * Exemplo: "0000321", utilizando o TryParse seria convertido para o inteiro "321",
              * por sua vez com o Convert.ToInt32 o resultado seria de fato "0000321".
+             * POR ALGUM MOTIVO ESSE ÚLTIMO PARAGRAFO JÁ NÃO É VERDADE. 
              */
 
             Console.ReadLine();

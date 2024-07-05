@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseSumOfIntArray", "Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{F06019AF-0022-4528-BAEA-148CC0E05F04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseCustomTryParse", "ExerciseCustomTryParse\ExerciseCustomTryParse.csproj", "{15BF4F29-1187-4B6D-9053-948B23C0248F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{F06019AF-0022-4528-BAEA-148CC0E05F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F06019AF-0022-4528-BAEA-148CC0E05F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F06019AF-0022-4528-BAEA-148CC0E05F04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15BF4F29-1187-4B6D-9053-948B23C0248F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15BF4F29-1187-4B6D-9053-948B23C0248F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15BF4F29-1187-4B6D-9053-948B23C0248F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15BF4F29-1187-4B6D-9053-948B23C0248F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
